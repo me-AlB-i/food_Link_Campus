@@ -1,0 +1,9 @@
+﻿Testing Gemini Key: AIzaSyCmV6...
+google-genai library imported successfully.
+
+Attempting to list models...
+List models failed: 'Model' object has no attribute 'supported_generation_methods'
+
+Attempting to generate content with 'gemini-1.5-flash'...
+
+Generation failed: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
